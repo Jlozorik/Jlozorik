@@ -1,21 +1,37 @@
-# Hi! It's Jlozor
+# Hi, I'm Jlozor
+
 ## About
-### 👨‍💻 Android Kotlin Developer
+### Android Kotlin Developer
 #### Stack:
-- *Jetpack compose*
-- *Ktor client*
-- *Ktor backend*
+- *Jetpack Compose*
+- *Ktor (client & backend)*
 - *RoomDB*
 - *Koin*
 - *Services*
 - *Coroutines*
 - *DeepLinks*
 
+### Python Backend Developer
+#### Stack:
+- *Django / DRF*
+- *FastAPI*
+- *PostgreSQL, MySQL*
+- *Docker*
+- *Nginx + Gunicorn*
+- *pytest, unittest*
+- *REST API*
+- *AWS (EC2, deploy)*
+- *Anthropic / OpenAI API*
+
 ## Projects
 ### [OsuApp](https://github.com/Jlozorchanin/OsuApp)
-**OsuApp** — ваш помощник в мире osu! Это приложение позволяет вам легко просматривать официальные новости игры, следить за рекордами ваших друзей и собственными достижениями, а также анализировать статистику по картам. Сравнивайте результаты и улучшайте свои навыки с OsuApp!
-### [ViolApp]() // private for now, still in development
-**ViolApp** — это мессенджер, который обеспечивает мгновенную отправку уведомлений и сообщений (FCM). Настройки приватности дают вам полный контроль над тем, кто может видеть вашу информацию профиля и писать вам сообщения.
+Android-клиент для osu! — новости, профили друзей, личная статистика, разбор карт.
 
-## Contact info
-#### [Telegram](https://t.me/Jlozorik)
+### [ViolApp]() // private, in development
+E2E Мессенджер с пуш-уведомлениями через FCM и настройками приватности профиля.
+
+### Python Backend (commercial, NDA)
+Django-бэкенд образовательной платформы в MyFreedom Education: авторизация, интеграция Anthropic API, деплой на AWS. Исходники под NDA.
+
+## Contact
+[Telegram](https://t.me/Jlozorik)
